@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Bleeding Edge",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "author": "",
   "files": [
     {
@@ -171,7 +171,7 @@
     },
     {
       "projectID": 551586,
-      "fileID": 4668870,
+      "fileID": 4674202,
       "required": true
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "projectID": 361026,
-      "fileID": 4667076,
+      "fileID": 4667349,
       "required": true
     },
     {
@@ -701,7 +701,7 @@
     },
     {
       "projectID": 64578,
-      "fileID": 4673286,
+      "fileID": 4674082,
       "required": true
     },
     {
@@ -846,7 +846,7 @@
     },
     {
       "projectID": 401955,
-      "fileID": 4657487,
+      "fileID": 4673618,
       "required": true
     },
     {

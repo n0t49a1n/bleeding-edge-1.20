@@ -13,7 +13,7 @@
 	#Range: 1 ~ 32
 	maxRangeMagnet = 8
 	#Defines how many seconds between a solar turtle recharges 1 fuel to itself
-	#Range: 1 ~ 60
+	#Range: 0.125 ~ 60.0
 	solarChargeRate = 4
 	#Does Magnetic Turtle uses fuel
 	magnetConsumesFuel = true
