@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Bleeding Edge",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "author": "",
   "files": [
     {
@@ -175,6 +175,11 @@
       "required": true
     },
     {
+      "projectID": 871698,
+      "fileID": 4632444,
+      "required": true
+    },
+    {
       "projectID": 351748,
       "fileID": 4617331,
       "required": true
@@ -216,7 +221,7 @@
     },
     {
       "projectID": 363543,
-      "fileID": 4665151,
+      "fileID": 4716595,
       "required": true
     },
     {
@@ -236,7 +241,7 @@
     },
     {
       "projectID": 438332,
-      "fileID": 4629797,
+      "fileID": 4715408,
       "required": true
     },
     {
@@ -281,7 +286,7 @@
     },
     {
       "projectID": 416089,
-      "fileID": 4711113,
+      "fileID": 4716028,
       "required": true
     },
     {
@@ -720,6 +725,11 @@
       "required": true
     },
     {
+      "projectID": 659674,
+      "fileID": 4688884,
+      "required": true
+    },
+    {
       "projectID": 403422,
       "fileID": 4632460,
       "required": true
@@ -756,7 +766,7 @@
     },
     {
       "projectID": 314906,
-      "fileID": 4654814,
+      "fileID": 4715646,
       "required": true
     },
     {
@@ -830,6 +840,11 @@
       "required": true
     },
     {
+      "projectID": 776197,
+      "fileID": 4715754,
+      "required": true
+    },
+    {
       "projectID": 551586,
       "fileID": 4687114,
       "required": true
@@ -842,6 +857,11 @@
     {
       "projectID": 314905,
       "fileID": 4596742,
+      "required": true
+    },
+    {
+      "projectID": 688768,
+      "fileID": 4707384,
       "required": true
     },
     {
@@ -880,6 +900,11 @@
       "required": true
     },
     {
+      "projectID": 829380,
+      "fileID": 4715686,
+      "required": true
+    },
+    {
       "projectID": 626839,
       "fileID": 4709249,
       "required": true
@@ -896,7 +921,7 @@
     },
     {
       "projectID": 250277,
-      "fileID": 4702627,
+      "fileID": 4715937,
       "required": true
     },
     {
@@ -951,7 +976,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 4714585,
+      "fileID": 4715873,
       "required": true
     },
     {
@@ -1051,7 +1076,7 @@
     },
     {
       "projectID": 368293,
-      "fileID": 4709817,
+      "fileID": 4716361,
       "required": true
     },
     {
