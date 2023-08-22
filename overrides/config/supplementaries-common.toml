@@ -176,9 +176,14 @@
 	[functional.flax]
 		enabled = true
 		wild_flax = true
+		#How many trades to give to wandering trader
+		#Range: 0 ~ 10
+		wandering_trader_trades = 2
+		#How many trades to give to farmers
+		#Range: 0 ~ 10
+		farmer_trades = 1
 
 [building]
-	ash_bricks = true
 	lapis_bricks = true
 	deepslate_lamp = true
 	end_stone_lamp = true
@@ -200,6 +205,10 @@
 	doormat = true
 	flint_block = true
 	candle_holder = true
+
+	[building.ash_bricks]
+		enabled = true
+		mason_trades = true
 
 	[building.blackboard]
 		enabled = true
@@ -283,7 +292,7 @@
 		sepia_globe = true
 		#How many globe trades to give to the wandering trader. This will effectively increase the chance of him having a globe trader. Increase this if you have other mods that add stuff to that trader
 		#Range: 0 ~ 50
-		chance = 2
+		wandering_trader_trades = 2
 
 	[building.sign_post]
 		enabled = true
@@ -299,9 +308,12 @@
 		wattle_and_daub = true
 
 [tools]
-	antique_ink = true
 	candy = true
 	stasis = true
+
+	[tools.antique_ink]
+		enabled = true
+		cartographer_trades = true
 
 	[tools.quiver]
 		enabled = true

@@ -109,6 +109,9 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "create_mechanical_spawner": {
+    "spawner_data": true
+  },
   "shetiphiancore": {
     "hud.rgb16": true,
     "hud": true,
