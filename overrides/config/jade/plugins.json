@@ -84,6 +84,9 @@
   "portabletanks": {
     "portable_tank_component": true
   },
+  "platforms": {
+    "hud": true
+  },
   "ae2": {
     "part_icon": true,
     "charger": true,
@@ -108,9 +111,6 @@
   },
   "jadeaddons": {
     "equipment_requirement": ""
-  },
-  "create_mechanical_spawner": {
-    "spawner_data": true
   },
   "shetiphiancore": {
     "hud.rgb16": true,
