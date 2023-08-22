@@ -1,7 +1,7 @@
 
 ["custom text"]
 	#Insert the custom title screen text you want here (supports multiple lines)
-	text = ["§4BLEEDING EDGE 1.2.5"]
+	text = ["§4BLEEDING EDGE 1.2.7"]
 
 [versions]
 	#Show which version of Minecraft the client is currently running.
