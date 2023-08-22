@@ -505,6 +505,8 @@
 		#bottling health cost
 		#Range: 0 ~ 20
 		cost = 2
+		#Block that should be clicked on for bottling to work. Leave blank for enchanting table. You can put another block here from another mod if you find it more fitting
+		target_block = ""
 
 	[tweaks.map_tweaks]
 		#Cartographers will sell 'adventurer maps' that will lead to a random vanilla structure (choosen from a thought out preset list).

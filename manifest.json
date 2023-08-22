@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Bleeding Edge - Dev",
-  "version": "1.2.8",
+  "name": "Bleeding Edge",
+  "version": "1.2.9",
   "author": "",
   "files": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 4699776,
+      "fileID": 4703357,
       "required": true
     },
     {
@@ -441,7 +441,7 @@
     },
     {
       "projectID": 615352,
-      "fileID": 4683577,
+      "fileID": 4703624,
       "required": true
     },
     {
@@ -472,11 +472,6 @@
     {
       "projectID": 342584,
       "fileID": 4639343,
-      "required": true
-    },
-    {
-      "projectID": 574856,
-      "fileID": 4573226,
       "required": true
     },
     {
@@ -891,7 +886,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 4701796,
+      "fileID": 4702486,
       "required": true
     },
     {
@@ -957,11 +952,6 @@
     {
       "projectID": 342543,
       "fileID": 4699155,
-      "required": true
-    },
-    {
-      "projectID": 581495,
-      "fileID": 4578741,
       "required": true
     },
     {
